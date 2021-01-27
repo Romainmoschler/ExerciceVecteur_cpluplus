@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="vecteur2d.h" />
     <ClInclude Include="Vecteur3d.h" />
   </ItemGroup>
   <ItemGroup>
